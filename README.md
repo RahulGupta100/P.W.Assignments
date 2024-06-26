@@ -1,2 +1,2 @@
 # P.W.Assignments
-Thia is a Folder where am submitting assignments for Data Science
+This folder was created to submit assignments for Data Science
